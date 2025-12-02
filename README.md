@@ -75,7 +75,9 @@ systemctl status rabbitmq-server
 rabbitmq-plugins list
 ~~~
 #### Result
-<img width="772" height="1299" alt="image" src="https://github.com/user-attachments/assets/56f0224f-1734-48cb-a2ce-3bca93abaab0" />
+
+<img width="320" height="600" alt="image" src="https://github.com/user-attachments/assets/56f0224f-1734-48cb-a2ce-3bca93abaab0" />
+
 ### 7. Add user for rabbitmq and set permisions
 #### Add user and set password
 ~~~
