@@ -96,4 +96,6 @@ rabbitmqctl enable_feature_flag all
 rabbitmqctl enable_feature_flag all
 ~~~
 ## Access to Web UI for check
-http://<IP Address:15672>
+~~~
+http://IP Address:15672
+~~~
