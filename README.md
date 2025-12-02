@@ -1,4 +1,4 @@
-<img width="772" height="1299" alt="image" src="https://github.com/user-attachments/assets/0e2a6021-bd86-494a-9ed9-634d0c88afc4" /># Install Rabbit-msq Server to Ubuntu
+# Install Rabbit-msq Server to Ubuntu
 
 ### Steps
 
