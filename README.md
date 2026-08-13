@@ -60,7 +60,7 @@ wget https://github.com/rabbitmq/rabbitmq-delayed-message-exchange/releases/down
 ~~~
 #### Move plugins to folder Rabbitmq-server
 ~~~
-mv rabbitmq_delayed_message_exchange-4.2.0.ez /usr/lib/rabbitmq/lib/rabbitmq_server-<verion>/plugins/
+mv rabbitmq_delayed_message_exchange-4.2.0.ez /usr/lib/rabbitmq/lib/rabbitmq_server-<version>/plugins/
 ~~~
 ### 7. Enable plugins
 ~~~
